@@ -14,9 +14,7 @@ This project, in collaboration with students from the **University of Manchester
 - Assessed the health benefits for local artisans using sustainable technologies.
 
 ## Tools and Technologies
-- **Python**: For data analysis and calculations.
-- **Pandas, NumPy**: For data manipulation.
-- **Microsoft Excel**: Used for initial data collection and analysis.
+- **Microsoft Excel and Google workspace**: Used for initial data collection and analysis.
 - **Canvas, KoboToolbox**: For data visualization, survey collection, and analysis.
 
 ## Future Work
